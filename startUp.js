@@ -7,6 +7,7 @@ export const Evaralda = () => {
         <Text>Evaralda- Miss Coict</Text>
         <Text>Omary Homera-Mbeya Boy</Text>
         <Text>Ernest from Lindi</Text>
+        <Text>Please make sure you chenge git branch before you push anything in this repository</Text>
         </>
     )
 }
